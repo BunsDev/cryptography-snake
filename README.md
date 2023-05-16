@@ -1,5 +1,8 @@
 # Crypto Snake
 
+![bilde](https://github.com/SpaceyLad/crypto_snake/assets/87969837/f8b19fdc-8eb7-40e3-986e-11e1af5e0188)
+
+
 ## Welcome to Crypto Snake!
 The thrilling game where your files are on the line! Are you ready to take the challenge? Caution is advised, though. When you launch the program, it will encrypt all the files in the running directory (except for itself and some config files) using the tough aes-256 encryption. The only way to decrypt the files and retrieve them is by beating the game!
 
